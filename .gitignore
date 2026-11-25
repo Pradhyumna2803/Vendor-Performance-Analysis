@@ -1,0 +1,3 @@
+# Large datasets - exclude from GitHub
+Data/purchases.csv
+Data/sales.csv
